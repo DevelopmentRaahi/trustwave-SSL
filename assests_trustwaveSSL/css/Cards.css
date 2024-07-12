@@ -578,3 +578,13 @@ button{
 .footer_space ul p{
   font-size: 1rem;
 }
+footer .contact-support .c-icon-phone {
+  color: #fff;
+}
+footer .contact-support .c-icon-phone a:hover {
+  color: #ffcd39;
+}
+footer .contact-support{
+  display: flex;
+}
+
