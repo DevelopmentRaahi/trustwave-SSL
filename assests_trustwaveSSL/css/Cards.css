@@ -578,7 +578,7 @@ button{
 .footer_space ul p{
   font-size: 1rem;
 }
-footer .contact-support .c-icon-phone {
+footer .contact-support .c-icon-phone a {
   color: #fff;
 }
 footer .contact-support .c-icon-phone a:hover {
